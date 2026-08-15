@@ -212,6 +212,6 @@ Security-sensitive observations should be disclosed privately to the repository 
 
 ## Licence
 
-This project is released under the MIT License.
+This project is released under the GPL3 License.
 
 Copyright © 2026 Kevin Koo
